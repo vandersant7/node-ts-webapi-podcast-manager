@@ -204,7 +204,7 @@ export const getFilterEpisodes = async (
 - **dist**: Empacota o código fonte utilizando `tsup`.
 - **start:dist**: Empacota o código fonte e inicia o servidor utilizando `node`, carregando variáveis de ambiente do arquivo `.env`.
 
-## Contribuição
+## Como contribuir com esse projeto
 
 1. Faça um fork do projeto.
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
